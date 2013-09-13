@@ -1,0 +1,5 @@
+.inline_product li {list-style: none;}
+.inline_product h2, .inline_product p {clear:none;}
+.inline_product figure {float:left}
+.inline_product { border:1px solid #ddd; padding:20px}
+.inline_product div.post_content {padding-left:20px;}
